@@ -53,6 +53,7 @@ Type: py engine.py
 ######## CHANGE LOG ########
 
 ############################
+
 **Alpha 1.14 - 5/19/20**
 * Fixed graphics issue with entities appearing black outside FOV
 * Fixed graphics issue with entities deleting tiles when player doesn't move
